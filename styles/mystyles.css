@@ -1,0 +1,41 @@
+header {
+text-align:center;
+}
+.centervideo {
+    text-align:center;
+}
+
+.tableaupage {
+font-family:'Times New Roman';
+text-align:center;
+background-color: cornflowerblue;
+text-align:center;
+}
+.post-preview > a > .post-title {
+    font-family: 'Segoe UI';
+    font-size: 1.9rem;
+    margin-top: 1.875rem;
+    margin-bottom: 0.625rem;
+  }
+  .post-preview > a > .post-subtitle {
+    font-weight: 300;
+    margin-bottom: 0.625rem;
+  }
+  .list-inline-item {
+    font-family:'Segoe UI' bold;
+    display: inline-block;
+  }
+  .list-inline-item:not(:last-child) {
+    margin-right: 0.6rem;
+  }
+  .btn-sm + .dropdown-toggle-split, .btn-group-sm > .btn + .dropdown-toggle-split {
+    padding-right: 0.4rem;
+    padding-left: 0.4rem;
+  }
+  .navbar-brand {
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    white-space: nowrap;
+  }
